@@ -14,7 +14,7 @@
  <nav>
         <img src="./assets/logo.svg" alt="logo" />
         <ul>
-           <li> <a href="${pageContext.request.contextPath}/myblogs">My Blogs</a></li>
+          <li> <a href="${pageContext.request.contextPath}/myblogs">My Blogs</a></li>
            		 <li> <a href="${pageContext.request.contextPath}/allblogs">All Blogs</a></li>
              <li> <a href="${pageContext.request.contextPath}/login">Login</a></li>
             <li> <a href="${pageContext.request.contextPath}/signup">Sign Up</a></li>
